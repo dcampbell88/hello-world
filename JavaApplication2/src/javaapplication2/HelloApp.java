@@ -10,7 +10,7 @@ package javaapplication2;
  * @author briacamp
 
  */
-public class JavaApplication2 {
+public class HelloApp {
 
     /**
      * @param args the command line arguments
