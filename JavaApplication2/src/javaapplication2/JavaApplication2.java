@@ -19,6 +19,7 @@ public class JavaApplication2 {
         System.out.println("hello java");
         System.out.println("this is fixed");
         // finally something new
+        //checked out this under testing for edits
         // TODO code application logic here
     }
     
