@@ -18,6 +18,7 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         System.out.println("hello java");
         System.out.println("this is fixed");
+        // finally something new
         // TODO code application logic here
     }
     
